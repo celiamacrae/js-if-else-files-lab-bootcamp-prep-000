@@ -1,7 +1,10 @@
 var name = "Joe"
 var height = "74"
 
-if 
+if (name === "susan")
+{
+  consoe.log("the name is correct")
+}
 
 
 // Don't worry about this
